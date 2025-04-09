@@ -1,6 +1,6 @@
 ﻿namespace Example.Modules
 {
-    public class Class1
+    public class Modules
     {
 
     }

@@ -6,11 +6,4 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
-  <ItemGroup>
-    <Folder Include="ExampleModule\ExampleModule.API\" />
-    <Folder Include="ExampleModule\ExampleModule.Application\" />
-    <Folder Include="ExampleModule\ExampleModule.Domain\" />
-    <Folder Include="ExampleModule\ExampleModule.Infrastructure\" />
-  </ItemGroup>
-
 </Project>
