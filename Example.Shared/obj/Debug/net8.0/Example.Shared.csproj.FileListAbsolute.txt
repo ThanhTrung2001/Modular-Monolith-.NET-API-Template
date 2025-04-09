@@ -1,0 +1,11 @@
+D:\Projects\Test\Modular-Monolith\Example.Shared\bin\Debug\net8.0\Example.Shared.deps.json
+D:\Projects\Test\Modular-Monolith\Example.Shared\bin\Debug\net8.0\Example.Shared.dll
+D:\Projects\Test\Modular-Monolith\Example.Shared\bin\Debug\net8.0\Example.Shared.pdb
+D:\Projects\Test\Modular-Monolith\Example.Shared\obj\Debug\net8.0\Example.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Test\Modular-Monolith\Example.Shared\obj\Debug\net8.0\Example.Shared.AssemblyInfoInputs.cache
+D:\Projects\Test\Modular-Monolith\Example.Shared\obj\Debug\net8.0\Example.Shared.AssemblyInfo.cs
+D:\Projects\Test\Modular-Monolith\Example.Shared\obj\Debug\net8.0\Example.Shared.csproj.CoreCompileInputs.cache
+D:\Projects\Test\Modular-Monolith\Example.Shared\obj\Debug\net8.0\Example.Shared.dll
+D:\Projects\Test\Modular-Monolith\Example.Shared\obj\Debug\net8.0\refint\Example.Shared.dll
+D:\Projects\Test\Modular-Monolith\Example.Shared\obj\Debug\net8.0\Example.Shared.pdb
+D:\Projects\Test\Modular-Monolith\Example.Shared\obj\Debug\net8.0\ref\Example.Shared.dll

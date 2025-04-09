@@ -1,0 +1,11 @@
+D:\Projects\Test\Modular-Monolith\Example.Modules\bin\Debug\net8.0\Example.Modules.deps.json
+D:\Projects\Test\Modular-Monolith\Example.Modules\bin\Debug\net8.0\Example.Modules.dll
+D:\Projects\Test\Modular-Monolith\Example.Modules\bin\Debug\net8.0\Example.Modules.pdb
+D:\Projects\Test\Modular-Monolith\Example.Modules\obj\Debug\net8.0\Example.Modules.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Test\Modular-Monolith\Example.Modules\obj\Debug\net8.0\Example.Modules.AssemblyInfoInputs.cache
+D:\Projects\Test\Modular-Monolith\Example.Modules\obj\Debug\net8.0\Example.Modules.AssemblyInfo.cs
+D:\Projects\Test\Modular-Monolith\Example.Modules\obj\Debug\net8.0\Example.Modules.csproj.CoreCompileInputs.cache
+D:\Projects\Test\Modular-Monolith\Example.Modules\obj\Debug\net8.0\Example.Modules.dll
+D:\Projects\Test\Modular-Monolith\Example.Modules\obj\Debug\net8.0\refint\Example.Modules.dll
+D:\Projects\Test\Modular-Monolith\Example.Modules\obj\Debug\net8.0\Example.Modules.pdb
+D:\Projects\Test\Modular-Monolith\Example.Modules\obj\Debug\net8.0\ref\Example.Modules.dll

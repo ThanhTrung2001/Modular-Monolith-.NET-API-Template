@@ -1,0 +1,11 @@
+D:\Projects\Test\Modular-Monolith\Example.BuildingBlocks\bin\Debug\net8.0\Example.BuildingBlocks.deps.json
+D:\Projects\Test\Modular-Monolith\Example.BuildingBlocks\bin\Debug\net8.0\Example.BuildingBlocks.dll
+D:\Projects\Test\Modular-Monolith\Example.BuildingBlocks\bin\Debug\net8.0\Example.BuildingBlocks.pdb
+D:\Projects\Test\Modular-Monolith\Example.BuildingBlocks\obj\Debug\net8.0\Example.BuildingBlocks.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Test\Modular-Monolith\Example.BuildingBlocks\obj\Debug\net8.0\Example.BuildingBlocks.AssemblyInfoInputs.cache
+D:\Projects\Test\Modular-Monolith\Example.BuildingBlocks\obj\Debug\net8.0\Example.BuildingBlocks.AssemblyInfo.cs
+D:\Projects\Test\Modular-Monolith\Example.BuildingBlocks\obj\Debug\net8.0\Example.BuildingBlocks.csproj.CoreCompileInputs.cache
+D:\Projects\Test\Modular-Monolith\Example.BuildingBlocks\obj\Debug\net8.0\Example.BuildingBlocks.dll
+D:\Projects\Test\Modular-Monolith\Example.BuildingBlocks\obj\Debug\net8.0\refint\Example.BuildingBlocks.dll
+D:\Projects\Test\Modular-Monolith\Example.BuildingBlocks\obj\Debug\net8.0\Example.BuildingBlocks.pdb
+D:\Projects\Test\Modular-Monolith\Example.BuildingBlocks\obj\Debug\net8.0\ref\Example.BuildingBlocks.dll
